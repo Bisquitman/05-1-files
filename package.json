@@ -1,7 +1,7 @@
 {
-  "name": "template-project",
+  "name": "nodejs-course-u5-p1",
   "version": "1.0.0",
-  "description": "template node js project",
+  "description": "homework for nodejs course, unit 5, part 2",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -13,7 +13,7 @@
     "node",
     "app"
   ],
-  "author": "Maksim Leskin <maksim.leskin@methed.ru>",
+  "author": "Bisquitman <lynx8309@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0",
